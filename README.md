@@ -51,10 +51,11 @@ _(P.S. Yep — April 10th, 2025, is when the journey officially began 🚀. Let�
 Each file follows a consistent structure with clearly labeled sections:
 
 1. ✅ **Final Solution (Code Only)**
-2. 🧩 **Code With Explanatory Comments**
-3. 📘 **Key Concepts and What to Know**
+2. 🧩 **Code with Detailed Explanations**
+3. 📘 **JavaScript Concepts You Must Know to Answer This Question**
 4. ⚠️ **Common Pitfalls and Mistakes to Avoid**
-5. 🔗 **Helpful Resources and Documentation**
+5. 🔗 **Helpful Resources and Documentation for This Question**
+6. 💡 **Alternative Solution (If Applicable)**
 
 > 🧠 **Tip:** _Try to solve each question on your own before viewing the solution — that's where the real learning happens!_
 
